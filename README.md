@@ -1,5 +1,7 @@
 # ntl-deploy
 
-## `npm install`
+Live preview: https://beautiful-pasca-0c3439.netlify.app/
 
-## `npm deploy:dev`
+### `npm install`
+
+### `npm deploy:dev`
